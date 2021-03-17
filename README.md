@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MaximilianRekuts
+- 👀 I’m interested in everything in and around data analysis and data engineering
+- 🌱 I’m currently learning data engineering 
+- 💞️ I’m looking to collaborate on data engineering project
+- 📫 How to reach me: maximilian.rekuts@gmail.com
