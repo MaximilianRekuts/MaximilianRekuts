@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @MaximilianRekuts
-- 👀 I’m interested in everything in and around data analysis and data engineering
-- 🌱 I’m currently advancing my knowledge in Python
-- 💞️ I’m looking to collaborate on data engineering and analytics engineering projects
-- 📫 How to reach me: maximilian.rekuts@gmail.com
+
